@@ -1,1 +1,3 @@
-file is the first commit through dev branch 
+file is the first commit through dev branch
+
+this 2nd commit to dev branch
